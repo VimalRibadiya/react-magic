@@ -21,7 +21,7 @@ const Team_service = () => {
                 <div className="team-box">
                   <div className="team-img">
                     <img
-                      src="/magic-react/assets/images/team1.png"
+                      src="/react-magic/assets/images/team1.png"
                       alt="team1.png"
                       width={65}
                     />
@@ -39,7 +39,7 @@ const Team_service = () => {
                 <div className="team-box">
                   <div className="team-img">
                     <img
-                      src="/magic-react/assets/images/team2.png"
+                      src="/react-magic/assets/images/team2.png"
                       alt="team2.png"
                       width={65}
                     />
@@ -57,7 +57,7 @@ const Team_service = () => {
                 <div className="team-box">
                   <div className="team-img">
                     <img
-                      src="/magic-react/assets/images/team3.png"
+                      src="/react-magic/assets/images/team3.png"
                       alt="team3.png"
                       width={65}
                     />

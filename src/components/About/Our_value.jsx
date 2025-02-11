@@ -22,7 +22,7 @@ const Our_value = () => {
                   <div className="img-outer">
                     <div className="our-value-img">
                       <img
-                        src="/magic-react/assets/images/icon-3.png"
+                        src="/react-magic/assets/images/icon-3.png"
                         alt="icon3.png"
                         width={45}
                       />
@@ -41,7 +41,7 @@ const Our_value = () => {
                   <div className="img-outer">
                     <div className="our-value-img">
                       <img
-                        src="/magic-react/assets/images/stick.png"
+                        src="/react-magic/assets/images/stick.png"
                         alt="stick.png"
                         width={45}
                       />
@@ -60,7 +60,7 @@ const Our_value = () => {
                   <div className="img-outer">
                     <div className="our-value-img">
                       <img
-                        src="/magic-react/assets/images/icon-3.png"
+                        src="/react-magic/assets/images/icon-3.png"
                         alt="icon3.png"
                         width={45}
                       />

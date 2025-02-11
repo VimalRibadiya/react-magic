@@ -20,7 +20,7 @@ const Magic_service = () => {
                 <div className="service-box">
                   <div className="service-img">
                     <img
-                      src="/magic-react/assets/images/icon-3.png"
+                      src="/react-magic/assets/images/icon-3.png"
                       alt="icon-3.png"
                     />
                   </div>
@@ -35,7 +35,7 @@ const Magic_service = () => {
                 <div className="service-box">
                   <div className="service-img">
                     <img
-                      src="/magic-react/assets/images/icon-2.png"
+                      src="/react-magic/assets/images/icon-2.png"
                       alt="icon-2.png"
                     />
                   </div>
@@ -50,7 +50,7 @@ const Magic_service = () => {
                 <div className="service-box">
                   <div className="service-img">
                     <img
-                      src="/magic-react/assets/images/icon-3.png"
+                      src="/react-magic/assets/images/icon-3.png"
                       alt="icon-3.png"
                     />
                   </div>
@@ -65,7 +65,7 @@ const Magic_service = () => {
                 <div className="service-box">
                   <div className="service-img">
                     <img
-                      src="/magic-react/assets/images/icon.png"
+                      src="/react-magic/assets/images/icon.png"
                       alt="icon.png"
                     />
                   </div>
