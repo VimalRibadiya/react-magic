@@ -9,11 +9,11 @@ const Awards_section = () => {
             <div className="award-col">
               <div className="award-img">
                 <div className="left-img">
-                  <img src="/magic-react/assets/images/awards3.png" alt="awards3.png" />
+                  <img src="/react-magic/assets/images/awards3.png" alt="awards3.png" />
                 </div>
                 <div className="right-img">
-                  <img src="/magic-react/assets/images/awards2.png" alt="awards2.png" />
-                  <img src="/magic-react/assets/images/awards1.png" alt="awards1.png" />
+                  <img src="/react-magic/assets/images/awards2.png" alt="awards2.png" />
+                  <img src="/react-magic/assets/images/awards1.png" alt="awards1.png" />
                 </div>
               </div>
             </div>

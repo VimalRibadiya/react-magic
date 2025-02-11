@@ -50,7 +50,7 @@ const Faq_section = () => {
                 <Faq data={data} styles={styles} />
               </div>
               <div className="faq-img">
-                <img src="/magic-react/assets/images/faq-img.png" alt="faq-img.png" />
+                <img src="/react-magic/assets/images/faq-img.png" alt="faq-img.png" />
               </div>
             </div>
           </div>

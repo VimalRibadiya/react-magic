@@ -25,7 +25,7 @@ const Magical_facts = () => {
                   <div className="show-info-box">
                     <div className="outer-img">
                       <div className="show-info-img">
-                        <img src="/magic-react/assets/images/cap.png" alt="cap.png" />
+                        <img src="/react-magic/assets/images/cap.png" alt="cap.png" />
                       </div>
                     </div>
                     <div className="show-info-content">
@@ -36,7 +36,7 @@ const Magical_facts = () => {
                   <div className="show-info-box">
                     <div className="outer-img">
                       <div className="show-info-img">
-                        <img src="/magic-react/assets/images/board.png" alt="board.png" />
+                        <img src="/react-magic/assets/images/board.png" alt="board.png" />
                       </div>
                     </div>
                     <div className="show-info-content">
@@ -49,7 +49,7 @@ const Magical_facts = () => {
                   <div className="show-info-box">
                     <div className="outer-img">
                       <div className="show-info-img">
-                        <img src="/magic-react/assets/images/stick.png" alt="stick.png" />
+                        <img src="/react-magic/assets/images/stick.png" alt="stick.png" />
                       </div>
                     </div>
                     <div className="show-info-content">
@@ -60,7 +60,7 @@ const Magical_facts = () => {
                   <div className="show-info-box">
                     <div className="outer-img">
                       <div className="show-info-img">
-                        <img src="/magic-react/assets/images/cup.png" alt="cup.png" />
+                        <img src="/react-magic/assets/images/cup.png" alt="cup.png" />
                       </div>
                     </div>
                     <div className="show-info-content">

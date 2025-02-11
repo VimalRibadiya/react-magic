@@ -15,7 +15,7 @@ const Magical_shows = () => {
             <div className="magical-show-boxes">
               <div className="magical-show-col">
                 <div className="magical-show-box">
-                  <img src="/magic-react/assets/images/img-1.png" alt="img-1.png" />
+                  <img src="/react-magic/assets/images/img-1.png" alt="img-1.png" />
                   <div className="magic-date-time">
                     <div className="date">
                       <span>
@@ -38,7 +38,7 @@ const Magical_shows = () => {
               </div>
               <div className="magical-show-col">
                 <div className="magical-show-box">
-                  <img src="/magic-react/assets/images/img-2.png" alt="img-2.png" />
+                  <img src="/react-magic/assets/images/img-2.png" alt="img-2.png" />
                   <div className="magic-date-time">
                     <div className="date">
                       <span>
@@ -61,7 +61,7 @@ const Magical_shows = () => {
               </div>
               <div className="magical-show-col">
                 <div className="magical-show-box">
-                  <img src="/magic-react/assets/images/img.png" alt="img.png" />
+                  <img src="/react-magic/assets/images/img.png" alt="img.png" />
                   <div className="magic-date-time">
                     <div className="date">
                       <span>

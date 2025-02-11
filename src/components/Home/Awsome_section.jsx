@@ -15,7 +15,7 @@ const Awsome_section = () => {
             <div className="awsome-content">
               <div className="col">
                 <div className="awsome-box">
-                  <img src="/magic-react/assets/images/stick.png" alt="stick.png" />
+                  <img src="/react-magic/assets/images/stick.png" alt="stick.png" />
                   <h2>illusions</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -25,7 +25,7 @@ const Awsome_section = () => {
               </div>
               <div className="col">
                 <div className="awsome-box">
-                  <img src="/magic-react/assets/images/happy.png" alt="happy.png" />
+                  <img src="/react-magic/assets/images/happy.png" alt="happy.png" />
                   <h2>comedy</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -35,7 +35,7 @@ const Awsome_section = () => {
               </div>
               <div className="col">
                 <div className="awsome-box">
-                  <img src="/magic-react/assets/images/cards.png" alt="cards.png" />
+                  <img src="/react-magic/assets/images/cards.png" alt="cards.png" />
                   <h2>cards & coins</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -45,7 +45,7 @@ const Awsome_section = () => {
               </div>
               <div className="col">
                 <div className="awsome-box">
-                  <img src="/magic-react/assets/images/hypnosis.png" alt="hypnosis.png" />
+                  <img src="/react-magic/assets/images/hypnosis.png" alt="hypnosis.png" />
                   <h2>hypnosis</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -55,7 +55,7 @@ const Awsome_section = () => {
               </div>
               <div className="col">
                 <div className="awsome-box">
-                  <img src="/magic-react/assets/images/reading.png" alt="reading.png" />
+                  <img src="/react-magic/assets/images/reading.png" alt="reading.png" />
                   <h2>mind reading</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -65,7 +65,7 @@ const Awsome_section = () => {
               </div>
               <div className="col">
                 <div className="awsome-box">
-                  <img src="/magic-react/assets/images/fire.png" alt="fire.png" />
+                  <img src="/react-magic/assets/images/fire.png" alt="fire.png" />
                   <h2>fire act</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.

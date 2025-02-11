@@ -19,7 +19,7 @@ const Contact_us = () => {
                   <div className="contact-img-center">
                     <div className="contact-img-outer">
                       <div className="contact-img-inner">
-                        <img src="/magic-react/assets/images/cap.png" alt="cap.png" />
+                        <img src="/react-magic/assets/images/cap.png" alt="cap.png" />
                       </div>
                     </div>
                   </div>
@@ -32,7 +32,7 @@ const Contact_us = () => {
                   <div className="contact-img-center">
                     <div className="contact-img-outer">
                       <div className="contact-img-inner">
-                        <img src="/magic-react/assets/images/cap.png" alt="cap.png" />
+                        <img src="/react-magic/assets/images/cap.png" alt="cap.png" />
                       </div>
                     </div>
                   </div>
@@ -45,7 +45,7 @@ const Contact_us = () => {
                   <div className="contact-img-center">
                     <div className="contact-img-outer">
                       <div className="contact-img-inner">
-                        <img src="/magic-react/assets/images/cap.png" alt="cap.png" />
+                        <img src="/react-magic/assets/images/cap.png" alt="cap.png" />
                       </div>
                     </div>
                   </div>
@@ -58,7 +58,7 @@ const Contact_us = () => {
                   <div className="contact-img-center">
                     <div className="contact-img-outer">
                       <div className="contact-img-inner">
-                        <img src="/magic-react/assets/images/cap.png" alt="cap.png" />
+                        <img src="/react-magic/assets/images/cap.png" alt="cap.png" />
                       </div>
                     </div>
                   </div>
@@ -69,7 +69,7 @@ const Contact_us = () => {
             </div>
             <div className="contact-form">
               <div className="contact-img">
-                <img src="/magic-react/assets/images/contact.png" alt="contact.png" />
+                <img src="/react-magic/assets/images/contact.png" alt="contact.png" />
               </div>
               <div className="contact-details">
                 <h4>get in touch</h4>

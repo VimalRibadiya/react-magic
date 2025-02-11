@@ -32,7 +32,7 @@ const Service_info = () => {
               </ul>
             </div>
             <div className="service-info-img">
-                <img src="/magic-react/assets/images/abt1.png" alt="abt1.png" />
+                <img src="/react-magic/assets/images/abt1.png" alt="abt1.png" />
             </div>
           </div>
         </div>

@@ -35,11 +35,11 @@ const About_main = () => {
             </div>
             <div className="about-img">
                 <div className="left-img">
-                    <img src="/magic-react/assets/images/abt3.png" alt="abt3.png" />
+                    <img src="/react-magic/assets/images/abt3.png" alt="abt3.png" />
                 </div>
                 <div className="right-img">
-                    <img src="/magic-react/assets/images/abt2.png" alt="abt2.png" />
-                    <img src="/magic-react/assets/images/abt1.png" alt="abt1.png" />
+                    <img src="/react-magic/assets/images/abt2.png" alt="abt2.png" />
+                    <img src="/react-magic/assets/images/abt1.png" alt="abt1.png" />
                 </div>
             </div>
           </div>

@@ -34,10 +34,10 @@ const Service_offer = () => {
                 </p>
               </div>
               <div className="content-col">
-                <img src="/magic-react/assets/images/abt1.png" alt="abt1.png" />
+                <img src="/react-magic/assets/images/abt1.png" alt="abt1.png" />
               </div>
               <div className="content-col">
-                <img src="/magic-react/assets/images/abt3.png" alt="abt3.png" />
+                <img src="/react-magic/assets/images/abt3.png" alt="abt3.png" />
               </div>
               <div className="content-col last">
                 <h2>Step Into A World Where Illusions Come Alive</h2>

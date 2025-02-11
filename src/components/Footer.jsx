@@ -31,7 +31,7 @@ const Footer = () => {
         <div className="container">
           <div className="footer-inner">
             <div className="footer-logo">
-              <img src="/magic-react/assets/images/logo.png" alt="logo.png" />
+              <img src="/react-magic/assets/images/logo.png" alt="logo.png" />
             </div>
             <div className="footer-list">
               <div className="footer-col">

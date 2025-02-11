@@ -49,7 +49,7 @@ const Header = () => {
           <div className="header-inner">
             <div className="header-col-1">
               <a href="#">
-                <img src="/magic-react/assets/images/logo.png" alt="logo.png" />
+                <img src="/react-magic/assets/images/logo.png" alt="logo.png" />
               </a>
             </div>
             <div className="header-col-2">

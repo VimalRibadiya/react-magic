@@ -15,7 +15,7 @@ const Upcoming_show = () => {
             </div>
             <div className="upcoming-content">
               <div className="upcoming-img">
-                <img src="/magic-react/assets/images/upc1.png" alt="upc1.png" />
+                <img src="/react-magic/assets/images/upc1.png" alt="upc1.png" />
               </div>
               <div className="upcoming-info">
                 <h2>Classic Magic By Magician</h2>
@@ -41,7 +41,7 @@ const Upcoming_show = () => {
             </div>
             <div className="upcoming-content two">
               <div className="upcoming-img">
-                <img src="/magic-react/assets/images/upcoming-shows3.png" alt="upcoming-shows3.png" />
+                <img src="/react-magic/assets/images/upcoming-shows3.png" alt="upcoming-shows3.png" />
               </div>
               <div className="upcoming-info">
                 <h2>Classic Magic By Magician</h2>
@@ -67,7 +67,7 @@ const Upcoming_show = () => {
             </div>
             <div className="upcoming-content">
               <div className="upcoming-img">
-                <img src="/magic-react/assets/images/upcoming-shows2.png" alt="upcoming-shows2.png" />
+                <img src="/react-magic/assets/images/upcoming-shows2.png" alt="upcoming-shows2.png" />
               </div>
               <div className="upcoming-info">
                 <h2>Classic Magic By Magician</h2>
@@ -93,7 +93,7 @@ const Upcoming_show = () => {
             </div>
             <div className="upcoming-content four">
               <div className="upcoming-img">
-                <img src="/magic-react/assets/images/upcoming-shows1.png" alt="upcoming-shows1.png" />
+                <img src="/react-magic/assets/images/upcoming-shows1.png" alt="upcoming-shows1.png" />
               </div>
               <div className="upcoming-info">
                 <h2>Classic Magic By Magician</h2>

@@ -32,10 +32,10 @@ const About_info = () => {
               </p>
             </div>
             <div className="about-info-col">
-              <img src="/magic-react/assets/images/wwr1.png" alt="wwr1.png" />
+              <img src="/react-magic/assets/images/wwr1.png" alt="wwr1.png" />
             </div>
             <div className="about-info-col">
-              <img src="/magic-react/assets/images/wwr2.png" alt="wwr2.png" />
+              <img src="/react-magic/assets/images/wwr2.png" alt="wwr2.png" />
             </div>
             <div className="about-info-col last">
               <p>who we are</p>

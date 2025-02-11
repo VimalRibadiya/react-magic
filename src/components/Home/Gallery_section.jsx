@@ -49,22 +49,22 @@ const Gallery_section = () => {
                 dots={false}
               >
                 <div class="item">
-                  <img src="/magic-react/assets/images/gallery1.png" alt="gallery1.png" />
+                  <img src="/react-magic/assets/images/gallery1.png" alt="gallery1.png" />
                 </div>
                 <div class="item">
-                  <img src="/magic-react/assets/images/gallery2.png" alt="gallery2.png" />
+                  <img src="/react-magic/assets/images/gallery2.png" alt="gallery2.png" />
                 </div>
                 <div class="item">
-                  <img src="/magic-react/assets/images/gallery3.png" alt="gallery3.png" />
+                  <img src="/react-magic/assets/images/gallery3.png" alt="gallery3.png" />
                 </div>
                 <div class="item">
-                  <img src="/magic-react/assets/images/gallery1.png" alt="gallery1.png" />
+                  <img src="/react-magic/assets/images/gallery1.png" alt="gallery1.png" />
                 </div>
                 <div class="item">
-                  <img src="/magic-react/assets/images/gallery2.png" alt="gallery2.png" />
+                  <img src="/react-magic/assets/images/gallery2.png" alt="gallery2.png" />
                 </div>
                 <div class="item">
-                  <img src="/magic-react/assets/images/gallery3.png" alt="gallery3.png" />
+                  <img src="/react-magic/assets/images/gallery3.png" alt="gallery3.png" />
                 </div>
               </OwlCarousel>
             </div>
